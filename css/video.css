@@ -1,0 +1,5 @@
+.newvideo{
+    /*灰度*/
+    filter:grayscale(100%); 
+    z-index:-11
+} 
